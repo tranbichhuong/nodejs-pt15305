@@ -1,3 +1,1 @@
-<private name() {
-    
-}
+import { Class } from "estree";
